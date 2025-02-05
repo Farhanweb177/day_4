@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#pic{
+  background-image: url('/lamp.svg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+#again{
+  background-image: url('/lastpic.svg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  box-sizing: border-box;
+}
